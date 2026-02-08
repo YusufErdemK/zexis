@@ -1,7 +1,7 @@
 <img src="readme-files/zexisbanner.png" alt="ZeXis OS Logo" />
 
 <h1 align="center">ZeXis OS</h1>
-An open-source operating system based on **Zorin OS** designed for efficiency and customization.
+An open-source operating system based on <b>Zorin OS</b> designed for efficiency and customization.
 
 ![ZeXis preview](readme-files/image1.png)
 
